@@ -1,0 +1,22 @@
+.element-container {
+    justify-content: center;
+    margin-top: 8%;
+}
+
+.array-element {
+    width: 8px;
+    background-color: rgb(77, 77, 206);
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.button-element {
+    background-color: rgb(77, 77, 206);
+    margin: 5px;
+    height: 30px;
+    color: white;
+}
+
+.main-container {
+    background-color: rgb(224, 224, 224);
+}
